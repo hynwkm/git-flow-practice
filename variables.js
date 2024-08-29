@@ -26,7 +26,7 @@ const variables = {
   shipa: "", // noun: body part "arm"
   stephen: "", // adjective: describing attitude/behavior "overzealous"
   tami: "Horse-opoly- A Game That Actually Encourages Horseplay!", // noun: board game "checkers"
-  wendy: "", // verb: unexpected or funny activity "juggle pineapples"
+  wendy: "juggle pineapples", // verb: unexpected or funny activity "juggle pineapples"
   yang: "farm owner", // unusual job title "beekeeper"
   yogina: "", // noun: profession, occupation, or role "plumber"
   yang: "", // unusual job title "beekeeper"
