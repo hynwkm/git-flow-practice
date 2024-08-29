@@ -11,7 +11,7 @@ const variables = {
   heela: "", // adjective: quality or characteristic "peculiar"
   huiyi: "friendship", // noun: word that ends in -ship "mentorship"
   jelena: "", // noun: word that rhymes with "phone"
-  jenani: "", // noun: a mundane object "toothbrush"
+  jenani: "hairclip", // noun: a mundane object "toothbrush"
   jessica: "", // adjective: personality trait "optimistic"
   justin: "", // noun: everyday item "spatula"
   katarina: "", // noun: mode of transportation "hoverboard"
