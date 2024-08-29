@@ -21,7 +21,7 @@ const variables = {
   mashal: "Zebra", // noun: animal "fish"
   michelle: "", // noun: random emotion "joy"
   mingxia: "cheerful", // adjective: personality descriptor "cheerful"
-  saba: "", // noun: a peculiar animal "platypus"
+  saba: "Pangolin", // noun: a peculiar animal "platypus"
   scarlett: "", // noun: unique trait or characteristic "selfishness"
   shipa: "", // noun: body part "arm"
   stephen: "", // adjective: describing attitude/behavior "overzealous"
