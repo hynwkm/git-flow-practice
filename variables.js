@@ -6,13 +6,13 @@ const variables = {
   annie: "", // proper noun: popular fictional location "Wakanda"
   brianna: "mandible", // noun: unusual body part "earlobe"
   chelsea: "", // noun phrase: accident "bicycle crash"
-  emma: "sleep", 
+  emma: "sleep",
   hana: "", // noun: a quirky or unusual item "banjo"
   heela: "", // adjective: quality or characteristic "peculiar"
   huiyi: "friendship", // noun: word that ends in -ship "mentorship"
   jelena: "", // noun: word that rhymes with "phone"
   jenani: "", // noun: a mundane object "toothbrush"
-  jessica: "", // adjective: personality trait "optimistic"
+  jessica: "optimistic", // adjective: personality trait "optimistic"
   justin: "", // noun: everyday item "spatula"
   katarina: "", // noun: mode of transportation "hoverboard"
   kate: "", // verb: past tense action "walked"
