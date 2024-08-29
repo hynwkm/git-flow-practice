@@ -27,6 +27,8 @@ const variables = {
   stephen: "", // adjective: describing attitude/behavior "overzealous"
   tami: "Horse-opoly- A Game That Actually Encourages Horseplay!", // noun: board game "checkers"
   wendy: "", // verb: unexpected or funny activity "juggle pineapples"
+  yang: "farm owner", // unusual job title "beekeeper"
+  yogina: "", // noun: profession, occupation, or role "plumber"
   yang: "", // unusual job title "beekeeper"
   yogina: "Software Developer", // noun: profession, occupation, or role "plumber"
   yuanshu: "restless", // adjective: quirky or distinctive trait "fidgety"
