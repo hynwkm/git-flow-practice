@@ -19,7 +19,7 @@ const variables = {
   kristina: "naive", // adjective: personal characteristic "naive"
   lily: "Pegasus", // noun: mythical figure "Dracula"
   mashal: "Zebra", // noun: animal "fish"
-  michelle: "", // noun: random emotion "joy"
+  michelle: "sadness", // noun: random emotion "joy"
   mingxia: "cheerful", // adjective: personality descriptor "cheerful"
   saba: "Pangolin", // noun: a peculiar animal "platypus"
   scarlett: "", // noun: unique trait or characteristic "selfishness"
