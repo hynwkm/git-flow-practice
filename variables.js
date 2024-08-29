@@ -13,7 +13,7 @@ const variables = {
   jelena: "", // noun: word that rhymes with "phone"
   jenani: "hairclip", // noun: a mundane object "toothbrush"
   jessica: "optimistic", // adjective: personality trait "optimistic"
-  justin: "", // noun: everyday item "spatula"
+  justin: "spatula", // noun: everyday item "spatula"
   katarina: "Hoverboard", // noun: mode of transportation "hoverboard"
   kate: "walked", // verb: past tense action "walked"
   kristina: "naive", // adjective: personal characteristic "naive"
