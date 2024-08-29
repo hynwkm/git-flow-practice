@@ -9,7 +9,7 @@ const variables = {
   emma: "", // verb: simple action "jump"
   hana: "", // noun: a quirky or unusual item "banjo"
   heela: "", // adjective: quality or characteristic "peculiar"
-  huiyi: "", // noun: word that ends in -ship "mentorship"
+  huiyi: "friendship", // noun: word that ends in -ship "mentorship"
   jelena: "", // noun: word that rhymes with "phone"
   jenani: "", // noun: a mundane object "toothbrush"
   jessica: "", // adjective: personality trait "optimistic"
