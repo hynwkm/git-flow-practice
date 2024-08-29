@@ -2,7 +2,7 @@
 const variables = {
   abdulkabir: "", // verb: unusual or unexpected action "sneeze"
   abraham: "", // noun: unusual clothing accessory "monocle"
-  alicia: "", // noun: mythical creature "dragon"
+  alicia: "centaur", // noun: mythical creature "dragon"
   annie: "", // proper noun: popular fictional location "Wakanda"
   brianna: "", // noun: unusual body part "earlobe"
   chelsea: "", // noun phrase: accident "bicycle crash"
