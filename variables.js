@@ -28,7 +28,7 @@ const variables = {
   tami: "", // noun: board game "checkers"
   wendy: "", // verb: unexpected or funny activity "juggle pineapples"
   yang: "", // unusual job title "beekeeper"
-  yogina: "", // noun: profession, occupation, or role "plumber"
+  yogina: "Software Developer", // noun: profession, occupation, or role "plumber"
   yuanshu: "", // adjective: quirky or distinctive trait "fidgety"
 };
 
