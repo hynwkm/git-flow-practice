@@ -17,7 +17,7 @@ const variables = {
   katarina: "", // noun: mode of transportation "hoverboard"
   kate: "", // verb: past tense action "walked"
   kristina: "", // adjective: personal characteristic "naive"
-  lily: "", // noun: mythical figure "Dracula"
+  lily: "Pegasus", // noun: mythical figure "Dracula"
   mashal: "", // noun: animal "fish"
   michelle: "", // noun: random emotion "joy"
   mingxia: "cheerful", // adjective: personality descriptor "cheerful"
