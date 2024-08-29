@@ -26,7 +26,7 @@ const variables = {
   shipa: "", // noun: body part "arm"
   stephen: "", // adjective: describing attitude/behavior "overzealous"
   tami: "", // noun: board game "checkers"
-  wendy: "", // verb: unexpected or funny activity "juggle pineapples"
+  wendy: "juggle pineapples", // verb: unexpected or funny activity "juggle pineapples"
   yang: "", // unusual job title "beekeeper"
   yogina: "", // noun: profession, occupation, or role "plumber"
   yuanshu: "", // adjective: quirky or distinctive trait "fidgety"
