@@ -27,7 +27,7 @@ const variables = {
   stephen: "", // adjective: describing attitude/behavior "overzealous"
   tami: "", // noun: board game "checkers"
   wendy: "", // verb: unexpected or funny activity "juggle pineapples"
-  yang: "", // unusual job title "beekeeper"
+  yang: "What skills do you think a beekeeper should have?", // unusual job title "beekeeper"
   yogina: "", // noun: profession, occupation, or role "plumber"
   yuanshu: "", // adjective: quirky or distinctive trait "fidgety"
 };
