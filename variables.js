@@ -6,7 +6,7 @@ const variables = {
   annie: "", // proper noun: popular fictional location "Wakanda"
   brianna: "", // noun: unusual body part "earlobe"
   chelsea: "", // noun phrase: accident "bicycle crash"
-  emma: "", // verb: simple action "jump"
+  emma: "sleep", 
   hana: "", // noun: a quirky or unusual item "banjo"
   heela: "", // adjective: quality or characteristic "peculiar"
   huiyi: "", // noun: word that ends in -ship "mentorship"
