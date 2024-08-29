@@ -29,7 +29,7 @@ const variables = {
   wendy: "", // verb: unexpected or funny activity "juggle pineapples"
   yang: "", // unusual job title "beekeeper"
   yogina: "Software Developer", // noun: profession, occupation, or role "plumber"
-  yuanshu: "", // adjective: quirky or distinctive trait "fidgety"
+  yuanshu: "restless", // adjective: quirky or distinctive trait "fidgety"
 };
 
 export default variables;
