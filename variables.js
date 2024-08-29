@@ -4,7 +4,7 @@ const variables = {
   abraham: "", // noun: unusual clothing accessory "monocle"
   alicia: "centaur", // noun: mythical creature "dragon"
   annie: "", // proper noun: popular fictional location "Wakanda"
-  brianna: "", // noun: unusual body part "earlobe"
+  brianna: "mandible", // noun: unusual body part "earlobe"
   chelsea: "", // noun phrase: accident "bicycle crash"
   emma: "", // verb: simple action "jump"
   hana: "", // noun: a quirky or unusual item "banjo"
