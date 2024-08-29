@@ -16,7 +16,7 @@ const variables = {
   justin: "", // noun: everyday item "spatula"
   katarina: "", // noun: mode of transportation "hoverboard"
   kate: "", // verb: past tense action "walked"
-  kristina: "", // adjective: personal characteristic "naive"
+  kristina: "naive", // adjective: personal characteristic "naive"
   lily: "", // noun: mythical figure "Dracula"
   mashal: "", // noun: animal "fish"
   michelle: "", // noun: random emotion "joy"
