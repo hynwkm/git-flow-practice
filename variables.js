@@ -20,7 +20,7 @@ const variables = {
   lily: "", // noun: mythical figure "Dracula"
   mashal: "", // noun: animal "fish"
   michelle: "", // noun: random emotion "joy"
-  mingxia: "", // adjective: personality descriptor "cheerful"
+  mingxia: "cheerful", // adjective: personality descriptor "cheerful"
   saba: "", // noun: a peculiar animal "platypus"
   scarlett: "", // noun: unique trait or characteristic "selfishness"
   shipa: "", // noun: body part "arm"
